@@ -1,0 +1,10 @@
+path: /home/ssj/ccx/RTDETR-20250315/RTDETR-main/
+train: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+# number of classes
+nc: 10
+
+
+names: ['Gallinula chloropus','Egretta garzetta','Anas zonorhyncha','Hydrophasianus chirurgus','Chlidonias hybrida','Charadrius dubius','Nycticorax nycticorax','Aredeola bacchus','Anas platyrhynchos','Tachybaptus ruficollis']
