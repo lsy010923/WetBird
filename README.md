@@ -17,7 +17,7 @@ python train.py --config your_config.yaml
 
 Evaluate your trained model weights (.pt file) on the validation set.
 
-# Evaluate the model on the validation set
+# Evaluate the model on the test set
 python val.py --weights path/to/your/best.pt --config your_config.yaml
 
 
